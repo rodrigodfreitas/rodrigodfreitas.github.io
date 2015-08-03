@@ -12,6 +12,10 @@ layout: default
 	<article class="post-content">
 		{{ content }}
 	</article>	
-    
+        
     <a href="{{ site.absolute_url }}/blog.html" class="waves-effect waves-light btn-large">Posts</a>
+    
+     {% if page.comments == true %}
+	  <div class="post-comments">{% include comments.html %}</div>
+	{% endif %}
 </div>
