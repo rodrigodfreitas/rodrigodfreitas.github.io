@@ -32,7 +32,7 @@ Saímos de Chicago com destino direto para Los Angeles, chegando lá tínhamos u
 
 Como todo brasileiro, e ainda por cima baiano, estava louco para chegar à praia. Achei que Malibu fosse a melhor praia de lá, mas fui comprado por Santa Mônica, a praia mais legal (e limpa) que tive a oportunidade de frequentar por lá.
 
-Passamos bons tempos na praia, eu quase fui "atropelado" por um barquinho, e minha ex perdeu os óculos na maré de Malibu. Perto de Los Angeles, a cidade mais próxima era Pasadena, o local onde tivemos que visitar dois dias seguidos, porque erramos o dia do show, que aconteceu em nada mais, nada menos no Rose Bowl (se você não sabe o que é o Rose Bowl, dê uma olhada no Google). Como já disse antes, foi um show espetacular, mas assim que acabou, tivemos que andar até a estação de trem mais próxima, pois bem, a aventura começa agora. Nos perdemos em Pasadena e andamos por pelo menos 1h e 30min, pelo menos!
+Passamos bons tempos na praia, eu quase fui "atropelado" por um barquinho, e minha ex perdeu os óculos na maré de Malibu. Perto de Los Angeles, a cidade mais próxima era Pasadena, o local onde tivemos que visitar dois dias seguidos, porque erramos o dia do show, que aconteceu no, nada mais nada menos, Rose Bowl (se você não sabe o que é o Rose Bowl, dê uma olhada no Google). Como já disse antes, foi um show espetacular, mas assim que acabou, tivemos que andar até a estação de trem mais próxima. Pois bem, a aventura começa agora: nos perdemos em Pasadena e andamos por 1h e 30min, pelo menos!
 
 ![](https://raw.githubusercontent.com/rodrigodfreitas/rodrigodfreitas.github.io/master/images/califa4.jpg)
 
