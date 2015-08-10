@@ -9,7 +9,7 @@ image: /images/californication.png
 
 Olá galera!
 
-Hoje, dia dos pais (09/08) no Brasil, faz um ano que passei pelas melhores férias da minha vida. Na Califórnia, sempre tive curiosidade de ir e conhecer um pouco do que seria morar na Califórnia. Mas Rodrigo, por que você citou o dia dos pais? Todos temos calendário e sabemos ler! Calma jovem, citei esse dia em especial, porque foi por causa do meu pai que essa vontade de conhecer a Califórnia surgiu.
+Hoje, dia dos pais (09/08) no Brasil, faz um ano que passei pelas melhores férias da minha vida na Califórnia, sempre tive curiosidade de ir e conhecer um pouco do que seria morar na Califórnia. Mas Rodrigo, por que você citou o dia dos pais? Todos temos calendário e sabemos ler! Calma jovem, citei esse dia em especial, porque foi por causa do meu pai que essa vontade de conhecer a Califórnia surgiu.
 
 ![](https://raw.githubusercontent.com/rodrigodfreitas/rodrigodfreitas.github.io/master/images/califa1.jpg)
 
