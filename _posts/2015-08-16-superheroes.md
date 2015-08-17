@@ -16,6 +16,7 @@ Hoje acordei pensando em não falar das minhas experiências, afinal, eu não so
 Antes que eu veja comentários do tipo: você é fã de quadrinhos e agora vai passar a falar mal? Não é isso. Minha indagação é como eu disse lá em cima: precisamos de super heróis?
 
 Primeiro de tudo, o que é um super herói?
+
 >Personagem de origem fictícia ou de caráter ficcional que, presente em histórias em quadrinhos, filmes, séries televisivas etc, geralmente possui super poderes ou poderes sobrenaturais e tem capacidade para combater o mal.
  Figurado. Indivíduo que possui características de um super-herói.
 
@@ -34,6 +35,7 @@ Se pararmos pra pensar o mundo já teve seus heróis, e eles nunca foram conside
 E é isso que faz a diferença: agir! Não adianta a gente só pensar em como seria se os super existissem, não adianta a gente ver alguma coisa errada e fazer de conta que nada está acontecendo. Por que se você não fizer sua parte ninguém fará por você.
 
 O que eu quis com esse post foi mostrar que, sim, o mundo seria bem bacana se os super heróis existissem, mas não adianta a gente só ficar querendo que eles existam, meus pais me ensinaram isso e me pediram para passar adiante: 
+
 >"Seja o seu próprio herói! Aja, e corra atrás de fazer o certo, pois é com cada atitude correta que o mundo pode ser um lugar melhor para você e sua futura família!". 
 
 Eu sempre tento fazer minha parte e fazer o certo, mas estou no caminho ainda. 
