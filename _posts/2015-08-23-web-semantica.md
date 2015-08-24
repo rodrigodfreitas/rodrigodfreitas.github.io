@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Semântica - Era uma vez um TCC... Parte 1"
+title:  "Era uma vez um TCC - Parte 1"
 date:   2015-08-23 14:41:42
 author: Rodrigo de Freitas
 categories: jekyll update
