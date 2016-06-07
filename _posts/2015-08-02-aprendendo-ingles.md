@@ -4,6 +4,7 @@ title:  "Aprendendo inglês natoralmente"
 date:   2015-08-02 15:07:29
 author: Rodrigo de Freitas
 comments: true
+modalID: moalIngles
 image: /images/posts/aprendendo-ingles.png
 ---
 

@@ -4,6 +4,7 @@ title:  "O maravilhoso mundo da Web Semântica"
 date:   2016-02-04 10:07:29
 author: Rodrigo de Freitas
 comments: true
+modalID: modalSemantica
 image: /images/posts/web-semantics.png
 ---
 

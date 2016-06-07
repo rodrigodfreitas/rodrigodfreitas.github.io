@@ -4,6 +4,7 @@ title:  "Super???"
 date:   2015-08-16 15:07:29
 author: Rodrigo de Freitas
 comments: true
+modalID: modalSuperheroes
 image: /images/posts/superFinal.png
 ---
 

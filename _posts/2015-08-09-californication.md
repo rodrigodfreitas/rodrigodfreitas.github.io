@@ -4,6 +4,7 @@ title:  "Californication!"
 date:   2015-08-09 15:07:29
 author: Rodrigo de Freitas
 comments: true
+modalID: modalCalifornication
 image: /images/posts/californication.png
 ---
 
